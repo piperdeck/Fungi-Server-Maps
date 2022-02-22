@@ -1,0 +1,16 @@
+island extents:
+		-175
+100				500
+		300
+
+2:1 (in)
+
+Subway view:
+Hide above 61
+
+Carlo's Iron Farm
+		-132
+-1164			-994
+		71
+
+4:1 (in)

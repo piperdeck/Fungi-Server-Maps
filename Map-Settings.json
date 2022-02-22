@@ -1,0 +1,30 @@
+{
+  "BlockFilterSettings": {
+    "Items": [],
+    "PredefinedFilters": {}
+  },
+  "DataPackSettings": {
+    "IsEnabled": true,
+    "LoadBiomeFoliageTint": true,
+    "LoadBiomeGrassTint": true,
+    "LoadBiomeWaterTint": true
+  },
+  "HighlightSettings": {
+    "Items": []
+  },
+  "RendererSettings": {
+    "Shadows": true,
+    "SunAltitudeAngle": 45.0,
+    "TransparentUnderground": true,
+    "WaterBlendingStrength": 48.0,
+    "WaterDarkeningStrength": 50.0,
+    "WaterShadingStrength": 27.0,
+    "WaterVisibilityRange": 128
+  },
+  "SlicerSettings": {
+    "ReplaceFlowingWater": true
+  },
+  "StylesheetSettings": {
+    "Settings": {}
+  }
+}

@@ -1,0 +1,1 @@
+wget -m -nH ftp://3293.node.apexhosting.gdn/Fungi\ SMP
