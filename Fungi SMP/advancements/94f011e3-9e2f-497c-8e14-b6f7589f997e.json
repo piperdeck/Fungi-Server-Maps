@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-02-25 23:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2022-02-13 16:31:50 +0000"
@@ -890,6 +896,7 @@
       "minecraft:wither_skeleton": "2022-02-09 03:47:13 +0000",
       "minecraft:husk": "2022-02-25 04:51:11 +0000",
       "minecraft:cave_spider": "2022-02-04 03:05:38 +0000",
+      "minecraft:piglin": "2022-02-25 23:09:19 +0000",
       "minecraft:enderman": "2022-02-04 04:27:37 +0000",
       "minecraft:zombie": "2022-01-26 01:15:33 +0000",
       "minecraft:drowned": "2022-01-28 04:04:12 +0000",
@@ -2278,6 +2285,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2022-01-28 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-02-25 23:12:54 +0000"
     },
     "done": true
   },
