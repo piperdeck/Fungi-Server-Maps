@@ -4,10 +4,10 @@ drwxr-xr-x   2 mc1217659 mc1217659     4096 Feb 12 22:40 advancements
 drwxr-xr-x   2 mc1217659 mc1217659     4096 Feb 27 06:23 data
 drwxr-xr-x   2 mc1217659 mc1217659     4096 Feb 27 02:27 datapacks
 drwxr-xr-x   2 mc1217659 mc1217659     8192 Feb 27 06:40 entities
--rw-r--r--   1 mc1217659 mc1217659     2036 Feb 27 08:58 level.dat
--rw-r--r--   1 mc1217659 mc1217659     2039 Feb 27 08:53 level.dat_old
+-rw-r--r--   1 mc1217659 mc1217659     2039 Feb 27 17:20 level.dat
+-rw-r--r--   1 mc1217659 mc1217659     2035 Feb 27 17:15 level.dat_old
 drwxr-xr-x   2 mc1217659 mc1217659     4096 Feb 27 07:07 playerdata
 drwxr-xr-x   2 mc1217659 mc1217659     8192 Feb 27 06:43 poi
 drwxr-xr-x   2 mc1217659 mc1217659     8192 Feb 27 06:39 region
--rw-r--r--   1 mc1217659 mc1217659        3 Feb 27 02:28 session.lock
+-rw-r--r--   1 mc1217659 mc1217659        3 Feb 27 10:00 session.lock
 drwxr-xr-x   2 mc1217659 mc1217659     4096 Feb 12 22:40 stats
