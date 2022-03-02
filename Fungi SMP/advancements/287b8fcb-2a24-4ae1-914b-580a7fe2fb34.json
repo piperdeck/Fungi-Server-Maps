@@ -1848,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-03-02 03:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2022-01-27 05:44:02 +0000"
@@ -5089,6 +5095,12 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2022-03-02 03:09:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2022-02-13 23:01:47 +0000"
@@ -5489,6 +5501,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2022-01-26 07:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-03-02 03:27:57 +0000"
     },
     "done": true
   },

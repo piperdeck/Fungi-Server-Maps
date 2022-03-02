@@ -6,7 +6,7 @@ var UnminedMapProperties = {
     imageFormat: "jpeg",
     minRegionX: -11,
     minRegionZ: -16,
-    maxRegionX: 8,
+    maxRegionX: 9,
     maxRegionZ: 14,
     worldName: "Fungi SMP",
     background: "",
