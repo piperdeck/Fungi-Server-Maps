@@ -38,46 +38,163 @@ Use the imageScale property if the pin image is too large.
 
 UnminedCustomMarkers = {
 
-    isEnabled: false,
+    isEnabled: true,
 
     markers: [
 
-        // Example 1: Simple marker
-        {
-            x: -200,
-            z: -200,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-        },
+        // // Example 1: Simple marker
+        // {
+        //     x: -200,
+        //     z: -200,
+        //     image: "custom.pin.png",
+        //     imageAnchor: [0.5, 1],
+        //     imageScale: 0.5,
+        // },
 
-        // Example 2: Marker with text
-        {
-            x: 0,
-            z: 0,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Marker with text",
-            textColor: "red", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "bold 20px Calibri,sans serif",
-        },
+        // // Example 2: Marker with text
+        // {
+        //     x: 0,
+        //     z: 0,
+        //     image: "custom.pin.png",
+        //     imageAnchor: [0.5, 1],
+        //     imageScale: 0.5,
+        //     text: "Marker with text",
+        //     textColor: "red", 
+        //     offsetX: 0,
+        //     offsetY: 20,
+        //     font: "bold 20px Calibri,sans serif",
+        // },
 
-        // Example 3: Text only
-        {
-            x: 200,
-            z: 200,
-            text: "Text only", 
-            textColor: "yellow", 
-            offsetX: 0,
-            offsetY: 0, 
-            font: "bold 50px Calibri,sans serif",
-        },
+        // // Example 3: Text only
+        // {
+        //     x: 200,
+        //     z: 200,
+        //     text: "Text only", 
+        //     textColor: "yellow", 
+        //     offsetX: 0,
+        //     offsetY: 0, 
+        //     font: "bold 50px Calibri,sans serif",
+        // },
 
         // add your markers here
 
+        //// The Island, centred on Central Park 
+        {
+            x: 299.5,
+            z: 21.5,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "The Island",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+        //// Iron Farm 
+        {
+            x: -1099,
+            z: -100,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Iron Farm",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+
+        //// Carlo's Island 
+        {
+            x: -1064,
+            z: 15,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Carlo's Home\nIn Exile",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+
+        //// Cave Spider XP Farm 
+        {
+            x: 2320,
+            z: -571,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Cave Spider\nXP Farm",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+
+        //// Ice Quarry 
+        {
+            x: -4437,
+            z: -6929,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Ice Quarry",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+
+        //// Monster Grinder 
+        {
+            x: 1609,
+            z: 715,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Monster Grinder",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+
+        //// Floating Mountains 
+        {
+            x: -365,
+            z: -1552,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Cool Floating\nMountains",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
+
+
+        //// Carlo's Horrible villager farm 
+        {
+            x: -2246,
+            z: -78,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Human Rights\nViolation",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "bold 15px Georgia,serif",
+        },
 
 
 
