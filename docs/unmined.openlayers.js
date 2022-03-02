@@ -179,6 +179,8 @@ class Unmined {
             var item = markers[i];
             var longitude = item.x;
             var latitude = item.z;
+            var minMapZoom = item.minmapzoom;
+            var maxMapZoom = item.maxmapzoom;
 
             var feature = new ol.Feature({
                 geometry: new ol.geom.Point(ol.proj.transform([longitude, latitude], dataProjection, viewProjection))
@@ -198,6 +200,10 @@ class Unmined {
                     font: item.font,
                     offsetX: item.offsetX,
                     offsetY: item.offsetY,
+                    stroke: new ol.style.Stroke({ 
+                        color: item.strokeColor,
+                        width: 2
+                    }),
                     fill: new ol.style.Fill({
                         color: item.textColor
                     })
@@ -213,6 +219,8 @@ class Unmined {
         });
 
         var vectorLayer = new ol.layer.Vector({
+            minZoom: minMapZoom,
+            maxZoom: maxMapZoom,
             source: vectorSource
         });
         return vectorLayer;
