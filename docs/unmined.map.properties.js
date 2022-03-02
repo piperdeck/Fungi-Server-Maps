@@ -9,6 +9,6 @@ var UnminedMapProperties = {
     maxRegionX: 9,
     maxRegionZ: 14,
     worldName: "Fungi SMP",
-    background: "",
+    background: "#121212",
     markers: new Array()
 }
