@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2022-03-02 02:25:45 +0000"
-    },
-    "done": true
-  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/smooth_quartz": {
     "criteria": {
       "has_stairs": "2022-03-02 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2022-03-02 02:25:45 +0000"
     },
     "done": true
   },
@@ -146,6 +146,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_granite": {
     "criteria": {
       "has_slab": "2022-03-02 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2022-03-03 02:40:45 +0000"
     },
     "done": true
   },
@@ -630,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-03-02 03:03:10 +0000"
@@ -651,6 +663,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/spruce_planks": {
     "criteria": {
       "has_slab": "2022-03-02 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2022-03-03 02:40:45 +0000"
     },
     "done": true
   },
@@ -876,6 +894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-01-26 02:07:15 +0000"
@@ -1077,6 +1101,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/purpur_block": {
     "criteria": {
       "has_stairs": "2022-03-02 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-03-03 03:07:29 +0000"
     },
     "done": true
   },
@@ -1316,6 +1346,7 @@
       "minecraft:desert": "2022-01-26 02:11:29 +0000",
       "minecraft:ocean": "2022-01-26 01:12:05 +0000",
       "minecraft:jungle": "2022-01-26 02:09:24 +0000",
+      "minecraft:windswept_savanna": "2022-03-03 03:01:44 +0000",
       "minecraft:warm_ocean": "2022-01-26 02:18:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-01-26 02:02:44 +0000",
       "minecraft:old_growth_birch_forest": "2022-01-26 01:04:01 +0000",
@@ -1844,6 +1875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2022-03-03 02:56:37 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/waxed_weathered_cut_copper": {
     "criteria": {
       "has_slab": "2022-03-02 01:03:23 +0000"
@@ -1903,6 +1940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2022-03-02 03:02:59 +0000"
@@ -1918,6 +1961,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-01-26 01:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
     },
     "done": true
   },
@@ -2038,6 +2087,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-01-26 01:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-03-03 02:56:37 +0000"
     },
     "done": true
   },
@@ -2534,15 +2589,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2022-03-02 03:03:10 +0000"
-    },
-    "done": true
-  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/waxed_exposed_cut_copper": {
     "criteria": {
       "has_stairs": "2022-03-02 01:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2022-03-02 03:03:10 +0000"
     },
     "done": true
   },
@@ -2621,6 +2676,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-01-27 05:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
     },
     "done": true
   },
@@ -2706,6 +2767,12 @@
   "vanillatweaks:nether_portal_coords": {
     "criteria": {
       "tick": "2022-01-26 01:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
     },
     "done": true
   },
@@ -2847,6 +2914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-01-26 01:21:11 +0000"
@@ -2883,6 +2956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
+    },
+    "done": true
+  },
   "vanillatweaks:multiplayer_sleep": {
     "criteria": {
       "tick": "2022-01-26 01:04:01 +0000"
@@ -2898,6 +2977,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2022-03-02 02:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-03 02:56:31 +0000"
     },
     "done": true
   },

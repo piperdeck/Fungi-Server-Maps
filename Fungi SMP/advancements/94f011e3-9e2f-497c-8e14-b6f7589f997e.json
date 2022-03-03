@@ -1989,6 +1989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-03-03 01:47:16 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/red_nether_bricks": {
     "criteria": {
       "has_slab": "2022-02-27 04:46:21 +0000"
@@ -5046,6 +5052,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2022-02-27 05:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-03-03 01:47:16 +0000"
     },
     "done": true
   },
