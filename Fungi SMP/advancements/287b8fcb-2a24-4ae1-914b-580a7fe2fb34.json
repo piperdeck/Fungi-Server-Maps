@@ -258,6 +258,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2022-03-04 03:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2022-01-26 01:16:24 +0000"
@@ -945,6 +957,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2022-02-02 05:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
     },
     "done": true
   },
@@ -2464,6 +2482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-29 08:36:35 +0000"
@@ -2753,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/waxed_cut_copper": {
     "criteria": {
       "has_stairs": "2022-02-27 02:28:56 +0000"
@@ -2762,6 +2792,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-01-30 03:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
     },
     "done": true
   },
@@ -3128,6 +3164,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2022-02-27 05:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
     },
     "done": true
   },
@@ -3934,6 +3976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2022-03-04 03:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2022-01-26 01:11:20 +0000"
@@ -3991,6 +4039,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-01-26 07:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-03-04 03:54:11 +0000"
     },
     "done": true
   },
@@ -4236,6 +4290,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-01-26 01:04:35 +0000"
@@ -4434,6 +4494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2022-01-26 03:02:25 +0000"
@@ -4617,6 +4683,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-01-26 03:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
     },
     "done": true
   },
@@ -5173,6 +5245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2022-02-27 02:05:19 +0000"
@@ -5200,6 +5278,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-01-26 03:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
     },
     "done": true
   },
@@ -5375,6 +5459,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-26 02:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2022-03-04 06:19:56 +0000"
     },
     "done": true
   },
@@ -5884,6 +5974,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/siamese.png": "2022-03-04 06:01:49 +0000",
       "textures/entity/cat/all_black.png": "2022-01-26 06:07:07 +0000"
     },
     "done": false
