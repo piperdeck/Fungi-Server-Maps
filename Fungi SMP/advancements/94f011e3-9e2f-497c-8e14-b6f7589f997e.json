@@ -2782,6 +2782,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-03-06 02:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-01-28 02:48:45 +0000"
@@ -2863,6 +2869,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2022-02-26 18:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-03-06 02:29:46 +0000"
     },
     "done": true
   },
@@ -3246,6 +3258,7 @@
       "minecraft:piglin": "2022-02-25 23:09:19 +0000",
       "minecraft:enderman": "2022-02-04 04:27:37 +0000",
       "minecraft:silverfish": "2022-03-05 19:26:28 +0000",
+      "minecraft:endermite": "2022-03-06 04:13:35 +0000",
       "minecraft:zombie": "2022-01-26 01:15:33 +0000",
       "minecraft:drowned": "2022-01-28 04:04:12 +0000",
       "minecraft:zombie_villager": "2022-02-04 03:56:02 +0000"
@@ -3890,6 +3903,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-03-06 04:45:23 +0000",
+      "minecraft:old_growth_pine_taiga": "2022-03-06 03:04:34 +0000",
       "minecraft:mushroom_fields": "2022-01-28 03:43:46 +0000",
       "minecraft:taiga": "2022-02-25 01:19:51 +0000",
       "minecraft:deep_ocean": "2022-01-28 04:25:03 +0000",
@@ -3907,13 +3922,16 @@
       "minecraft:river": "2022-01-26 02:25:38 +0000",
       "minecraft:lukewarm_ocean": "2022-02-03 18:31:13 +0000",
       "minecraft:stony_shore": "2022-01-26 01:05:49 +0000",
+      "minecraft:snowy_plains": "2022-03-06 04:45:36 +0000",
       "minecraft:dripstone_caves": "2022-02-04 04:06:12 +0000",
       "minecraft:grove": "2022-02-04 04:00:41 +0000",
       "minecraft:swamp": "2022-02-12 20:15:47 +0000",
+      "minecraft:jagged_peaks": "2022-03-06 04:45:22 +0000",
       "minecraft:cold_ocean": "2022-02-27 05:25:24 +0000",
       "minecraft:forest": "2022-01-26 03:41:45 +0000",
       "minecraft:lush_caves": "2022-01-27 23:16:41 +0000",
       "minecraft:desert": "2022-02-04 03:13:24 +0000",
+      "minecraft:windswept_forest": "2022-03-06 03:18:10 +0000",
       "minecraft:ocean": "2022-01-26 03:16:52 +0000",
       "minecraft:jungle": "2022-02-03 18:31:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-02-27 05:26:42 +0000",
@@ -4010,6 +4028,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2022-02-04 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2022-03-06 02:29:59 +0000"
     },
     "done": true
   },
@@ -4226,6 +4250,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-01-26 04:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-03-06 02:29:59 +0000"
     },
     "done": true
   },
@@ -5348,6 +5378,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2022-03-05 20:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-03-06 02:29:46 +0000"
     },
     "done": true
   },

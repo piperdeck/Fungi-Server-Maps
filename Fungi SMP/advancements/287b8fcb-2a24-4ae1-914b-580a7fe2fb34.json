@@ -2693,6 +2693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2022-03-06 03:54:13 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/mossy_stone_bricks": {
     "criteria": {
       "has_slab": "2022-02-27 02:28:56 +0000"
@@ -6062,6 +6068,12 @@
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2022-02-13 16:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2022-03-06 03:54:13 +0000"
     },
     "done": true
   },

@@ -2,7 +2,7 @@
 -rw-r--r--   1 mc1217659 mc1217659      141 Apr 21  2021 .bash_profile
 -rw-r--r--   1 mc1217659 mc1217659      376 Apr 21  2021 .bashrc
 drwxr-xr-x   4 mc1217659 mc1217659       45 Feb 10 23:50 .fabric
-drwxr-xr-x  12 mc1217659 mc1217659     4096 Mar 06 00:14 Fungi SMP
+drwxr-xr-x  12 mc1217659 mc1217659     4096 Mar 06 08:59 Fungi SMP
 -rw-rw----   1 mc1217659 mc1217659 1684295032 Mar 04 09:50 Fungi SMP.1.zip
 -rw-rw----   1 mc1217659 mc1217659 1708589217 Mar 05 09:50 Fungi SMP.zip
 -rw-r--r--   1 mc1217659 mc1217659        2 Mar 05 18:44 banned-ips.json
@@ -25,7 +25,7 @@ drwxr-xr-x   2 mc1217659 mc1217659     4096 Feb 27 19:39 mods
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 spigot.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Mar 05 18:43 test.yml
 -rwxrwx---   1 mc1217659 mc1217659        0 Feb 08 20:40 tuinity.yml
--rw-r--r--   1 mc1217659 mc1217659      753 Mar 05 22:25 usercache.json
+-rw-r--r--   1 mc1217659 mc1217659      753 Mar 06 04:03 usercache.json
 drwxr-xr-x   3 mc1217659 mc1217659       19 Jan 24 19:39 versions
 -rw-r--r--   1 mc1217659 mc1217659      436 Feb 12 22:35 whitelist.json
 -rw-rw----   1 mc1217659 mc1217659  3529636 Jan 24 19:41 world.zip
