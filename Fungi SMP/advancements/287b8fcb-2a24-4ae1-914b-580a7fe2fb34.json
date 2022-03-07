@@ -1952,6 +1952,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2022-03-06 22:50:40 +0000",
       "minecraft:sheep": "2022-01-27 19:19:34 +0000",
       "minecraft:cow": "2022-01-26 03:45:43 +0000",
       "minecraft:horse": "2022-02-13 05:52:31 +0000",
@@ -4333,9 +4334,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
     "criteria": {
-      "has_dye": "2022-02-27 06:16:46 +0000"
+      "has_dye": "2022-02-27 06:16:46 +0000",
+      "has_block": "2022-03-07 02:43:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
@@ -4387,8 +4389,10 @@
       "minecraft:bamboo_jungle": "2022-01-26 04:02:52 +0000",
       "minecraft:wooded_badlands": "2022-01-29 02:05:13 +0000",
       "minecraft:badlands": "2022-01-29 02:03:46 +0000",
+      "minecraft:savanna_plateau": "2022-03-07 04:57:02 +0000",
       "minecraft:beach": "2022-01-26 01:45:14 +0000",
       "minecraft:dark_forest": "2022-01-24 21:06:29 +0000",
+      "minecraft:stony_peaks": "2022-03-07 03:32:25 +0000",
       "minecraft:sparse_jungle": "2022-01-29 02:21:45 +0000",
       "minecraft:lukewarm_ocean": "2022-01-26 03:56:38 +0000",
       "minecraft:river": "2022-01-26 01:14:56 +0000",
