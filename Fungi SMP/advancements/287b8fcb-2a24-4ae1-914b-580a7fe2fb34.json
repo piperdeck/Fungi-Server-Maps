@@ -294,6 +294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2022-03-09 05:18:13 +0000"
+    },
+    "done": true
+  },
   "vanillatweaks:root": {
     "criteria": {
       "tick": "2022-01-24 21:06:22 +0000"
@@ -699,6 +705,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/warped_planks": {
     "criteria": {
       "has_stairs": "2022-02-27 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2022-03-09 05:18:13 +0000"
     },
     "done": true
   },
@@ -3655,6 +3667,7 @@
       "minecraft:pillager": "2022-02-02 03:03:13 +0000",
       "minecraft:skeleton": "2022-01-26 04:51:28 +0000",
       "minecraft:elder_guardian": "2022-02-27 01:55:46 +0000",
+      "minecraft:ghast": "2022-03-09 05:01:36 +0000",
       "minecraft:hoglin": "2022-01-26 05:11:37 +0000",
       "minecraft:magma_cube": "2022-02-09 03:56:18 +0000",
       "minecraft:spider": "2022-01-26 01:13:32 +0000",
